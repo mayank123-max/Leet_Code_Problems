@@ -1,0 +1,1 @@
+print(solve(N, array, Q, query))
